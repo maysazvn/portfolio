@@ -135,6 +135,11 @@ footer
 
 footer nav a{
     color: #21243D;
-    font-size: 7vw;
+    font-size: 10vw;
+    padding: 3vw 0 2vw 0;
+}
+
+footer p {
+    padding: 2vw 0 2vw 0;
 }
 
